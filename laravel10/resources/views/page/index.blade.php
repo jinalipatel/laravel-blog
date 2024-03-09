@@ -6,7 +6,7 @@
             <div class="col-md-9">
                 <div class="card">
                     <div class="card-header">
-                        <h2>Laravel 10 Crud</h2>
+                        <h2>Crud Operation</h2>
                     </div>
                     <div class="card-body">
                         <a href="{{ url('/page/create') }}" class="btn btn-success btn-sm" title="Add New page">
